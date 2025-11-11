@@ -1,6 +1,7 @@
-# 📂 Sticker Gallery-HacktoberFest
+# 📂 Sticker Gallery-HacktoberFest-Contributions closed till hacktoberfest 2026
 
 A simple, modern, and local-first web application to browse and copy your sticker collection. Organize your PNG stickers into folders, and this tool will create a beautiful, searchable gallery for you.
+
 
 ## ✨ Features
 
